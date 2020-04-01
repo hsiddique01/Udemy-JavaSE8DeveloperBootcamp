@@ -2,3 +2,6 @@
 Udemy-JavaSE8DeveloperBootcamp/.classpath
 Udemy-JavaSE8DeveloperBootcamp/.project
 Udemy-JavaSE8DeveloperBootcamp/.settings/org.eclipse.jdt.core.prefs
+/bin/
+.project
+.classpath
