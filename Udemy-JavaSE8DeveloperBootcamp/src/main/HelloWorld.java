@@ -4,12 +4,8 @@ public class HelloWorld {
 
 	public static void main(String[] watEva) {
 		String[] arrayOfWhatToPrint = {
-				"Stay",
-				"the",
-				"fuck",
-				"home!",
-				"It's",
-				"COVID-19"};
+				"Hello,",
+				"Home"};
 		String printMe = "";
 		for(String itemInArray: arrayOfWhatToPrint) {
 			if (!itemInArray.equals(arrayOfWhatToPrint[0])) {
@@ -19,6 +15,7 @@ public class HelloWorld {
 			}
 		}
 		System.out.println(printMe);
+		System.out.println("Just a test");
 
 	}
 
